@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Norly(N96)
 
+<img alt="Portada Norly96" src="./portada.jpg" />
+
 
 I am a frontend developer with a degree in Computer Engineering, graduated in 2020. My passion for technology and web development has led me to specialize in creating <strong>intuitive and attractive user interfaces</strong> using technologies such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>React.js</strong>
 
